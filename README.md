@@ -1,0 +1,2 @@
+# ChibiGameRandomizer
+Module for ChibChatBotGame
