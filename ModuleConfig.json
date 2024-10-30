@@ -1,0 +1,22 @@
+{
+    "name": "Randomizer",
+    "version": "0.0.1",
+    "path": "./ChibiGameRandomizer",
+    "input_params": [
+        {
+            "name": "user",
+            "type": "string",
+            "required": false
+        }
+    ],
+    "output_params": [
+        {
+            "name": "RandomBool",
+            "type": "bool"
+        },
+        {
+            "name": "RandomNumber",
+            "type": "number"
+        }
+    ]
+}
